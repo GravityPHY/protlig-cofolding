@@ -13,8 +13,8 @@ ml purge
 ml Conda
 
 #proxy
-export HTTP_PROXY=http://nibr-proxy.global.nibr.novartis.net:2011
-export HTTPS_PROXY=https://nibr-proxy.global.nibr.novartis.net:2011
+export HTTP_PROXY=http://nibr-proxy.global.nibr.novartis.net
+export HTTPS_PROXY=https://nibr-proxy.global.nibr.novartis.net
 
 conda env create -f environment.yml
 ```
