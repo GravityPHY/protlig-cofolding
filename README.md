@@ -60,7 +60,7 @@ Run prediction with wrapper function
 #### Data
 single chain single ligand benchmark set available at this [internal link](go/cofold-benchmark).  
 Analysis scripts 
-- Visualize tool (developming)
+- Visualize tool (developing)
 
 #### Results
 
