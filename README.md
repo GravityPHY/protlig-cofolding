@@ -1,7 +1,7 @@
 ## Benchmarking co-folding algorithms
 ### Author: Hao Yu
 ### Email: imhaoyu@bu.edu
-This repository contains my summer intern project at Novartis for 2024, which includes all the scripts and instructions I have written. Note that there is no involvement of commercialized content.
+This repository contains my summer intern project at Novartis in 2024, which includes all the scripts and instructions I have written. Note that there is no involvement of commercialized content.
 
 
 #### Infrastructure
@@ -47,7 +47,7 @@ Prepare the input information in a `.json` file.
 Example
 ```
 {"STRUCID":”1oda”,
-"EXPRSEQUENCE":” GPDLVQKLKVLRHELSLQQ…”,
+"EXPRSEQUENCE":” GPDL…”,
 "POCKETPOS":null,
 "SMILES":"CC...OC=O",
 "OUTPUTDIR":”./”,
@@ -58,8 +58,9 @@ Run prediction with wrapper function
 ```python3 .umol_conda/wrapper/predict_umol.py --json_path input.json```
 
 #### Data
-single chain single ligand benchmark set available at this [internal link](go/cofold-benchmark).
+single chain single ligand benchmark set available at this [internal link](go/cofold-benchmark).  
 Analysis scripts 
+- Visualize tool (developming)
 
 #### Results
 
