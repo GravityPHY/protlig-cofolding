@@ -1,7 +1,7 @@
 ## Benchmarking co-folding algorithms
 ### Author: Hao Yu
 ### Email: imhaoyu@bu.edu
-This repository contains my summer intern project at Novartis in 2024, which includes all the scripts and instructions I have written. Note that there is no involvement of commercialized content.
+This repository includes all the scripts and instructions I have written during my summer internship at Novartis in 2024. Note that there is no involvement of commercialized content.
 
 
 #### Infrastructure
@@ -60,9 +60,10 @@ Run prediction with wrapper function
 #### Data
 single chain single ligand benchmark set available at this [internal link](go/cofold-benchmark).  
 Analysis scripts 
-- Visualize tool (developing)
+- Visualize tool: https://protlig.streamlit.app
 
 #### Results
+Due to data privacy restrictions, the detailed results cannot be shared.
 
 #### Other notes
 You might find this [note](https://confluence.prd.nibr.novartis.net/x/xBf2Ew) useful when trying to create a conda environment working with pytorch_geometric.  
