@@ -63,7 +63,7 @@ Analysis scripts
 - Visualize tool: https://protlig.streamlit.app
 
 #### Results
-Due to data privacy restrictions, the detailed results cannot be shared.
+Due to data privacy restrictions, detailed results cannot be shared; however, a shareable portion of this work has been documented in a report accepted at a conference. Please feel free to contact me if you are interested in the report.
 
 #### Other notes
 You might find this [note](https://confluence.prd.nibr.novartis.net/x/xBf2Ew) useful when trying to create a conda environment working with pytorch_geometric.  
